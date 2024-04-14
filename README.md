@@ -48,8 +48,6 @@
 
 	项目Maybe是一个开源的个人财务管理系统，旨在帮助用户管理自己的财务。它主要使用Ruby、HTML和JavaScript开发，利用了Ruby on Rails框架。从这个项目中，可以预期学习到Ruby编程语言、Web开发、以及财务管理软件的开发思路。项目的开发思路强调了用户自我管理财务的能力，包括支持多货币等功能。实践用途方面，Maybe允许个人用户免费运行和使用这个应用来管理自己的财务，未来还计划提供托管版本。整个项目充满了对开源社区的贡献精神，对于有意向深入了解个人财务管理应用开发的开发者来说，是一个非常有价值的学习资源。
 
-- **[google-indexing-script](https://github.com/goenning/google-indexing-script)**: Google索引脚本。
-	这个项目是一个使用Node.js编写的Google索引脚本，旨在帮助网站在不到48小时内被Google索引。它利用Google Indexing API实现，要求使用者拥有Google Search Console和Google Cloud账户。通过这个项目，学习者可以掌握使用Google API进行网站SEO优化的能力，了解Node.js在实际项目中的应用，以及如何通过编程自动化解决SEO问题的开发思路。实际用途包括快速获取新网站或页面被Google索引，从而提高网站可见性。
 以下是一些主要的功能：
 
 净资产追踪
@@ -67,6 +65,10 @@ Tailwind
 Node.js
 Express
 Postgres (w/ Timescale)
+
+
+- **[google-indexing-script](https://github.com/goenning/google-indexing-script)**: Google索引脚本。
+	这个项目是一个使用Node.js编写的Google索引脚本，旨在帮助网站在不到48小时内被Google索引。它利用Google Indexing API实现，要求使用者拥有Google Search Console和Google Cloud账户。通过这个项目，学习者可以掌握使用Google API进行网站SEO优化的能力，了解Node.js在实际项目中的应用，以及如何通过编程自动化解决SEO问题的开发思路。实际用途包括快速获取新网站或页面被Google索引，从而提高网站可见性。
 
 ### 高级：
 - **[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)**: 开源OCR软件。
