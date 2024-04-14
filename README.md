@@ -50,7 +50,23 @@
 
 - **[google-indexing-script](https://github.com/goenning/google-indexing-script)**: Google索引脚本。
 	这个项目是一个使用Node.js编写的Google索引脚本，旨在帮助网站在不到48小时内被Google索引。它利用Google Indexing API实现，要求使用者拥有Google Search Console和Google Cloud账户。通过这个项目，学习者可以掌握使用Google API进行网站SEO优化的能力，了解Node.js在实际项目中的应用，以及如何通过编程自动化解决SEO问题的开发思路。实际用途包括快速获取新网站或页面被Google索引，从而提高网站可见性。
+以下是一些主要的功能：
 
+净资产追踪
+财务账户同步
+投资标杆
+投资组合配置
+债务洞察
+退休预测+规划
+投资回报模拟
+手动账户/投资跟踪
+项目中涉及的一些交易和外部数据都是海外的，估计在国内使用会有些困难，另外对于大部分的国内韭菜来说，实际使用价值不算太高。从另一个角度，学习还是很好的，可以自己修改，然后变成适合国内的嘛。项目的技术栈如下：
+
+Next.js
+Tailwind
+Node.js
+Express
+Postgres (w/ Timescale)
 
 ### 高级：
 - **[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)**: 开源OCR软件。
